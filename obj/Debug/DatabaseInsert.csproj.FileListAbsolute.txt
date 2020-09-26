@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\DatabaseInsert\DatabaseInsert\bin\Debug\DatabaseInsert.exe.config
+C:\Users\Eren\source\repos\DatabaseInsert\DatabaseInsert\bin\Debug\DatabaseInsert.exe
+C:\Users\Eren\source\repos\DatabaseInsert\DatabaseInsert\bin\Debug\DatabaseInsert.pdb
+C:\Users\Eren\source\repos\DatabaseInsert\DatabaseInsert\obj\Debug\DatabaseInsert.Form1.resources
+C:\Users\Eren\source\repos\DatabaseInsert\DatabaseInsert\obj\Debug\DatabaseInsert.Properties.Resources.resources
+C:\Users\Eren\source\repos\DatabaseInsert\DatabaseInsert\obj\Debug\DatabaseInsert.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\DatabaseInsert\DatabaseInsert\obj\Debug\DatabaseInsert.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\DatabaseInsert\DatabaseInsert\obj\Debug\DatabaseInsert.exe
+C:\Users\Eren\source\repos\DatabaseInsert\DatabaseInsert\obj\Debug\DatabaseInsert.pdb
+C:\Users\Eren\source\repos\DatabaseInsert\DatabaseInsert\obj\Debug\DatabaseInsert.csprojAssemblyReference.cache
